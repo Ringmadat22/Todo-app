@@ -39,3 +39,13 @@
     width: 30px;
     margin-left: 20px;
 }
+
+.row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #edeef0;
+    border-radius: 30px;
+    padding-right: 20px;
+    margin-bottom: 25px;
+}
